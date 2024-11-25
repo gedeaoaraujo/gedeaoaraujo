@@ -29,7 +29,7 @@ Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, 
 
 ## 📘 Projeto de Destaque
 
-### **[Rick And Morty Dex](#)**
+### **Rick And Morty Dex**
 > *Em andamento...*  
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/android-rickandmorty-dex)**  
 - 🚀 Tecnologias: Jetpack Compose, Retrofit, Junit, Clean Architecture, DDD
