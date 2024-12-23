@@ -35,7 +35,7 @@ Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, 
 - 🚀 Tecnologias: Jetpack Compose, Retrofit, Room, Junit, Clean Architecture, DDD
 
 ### **Ingresso Filmes**
-> *Em andamento...* 
+> *App para pesquisar filmes* 
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/ingresso-filmes-app)**  
 - 🚀 Tecnologias: Android DataBinding, Retrofit, Room, Junit
 
