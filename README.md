@@ -27,7 +27,7 @@ Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, 
 
 ---
 
-## 📘 Projeto de Destaque
+## 📘 Projetos de Destaque
 
 ### **Rick And Morty Dex**
 > *App para pesquisa dos personagens da série*  
