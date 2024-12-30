@@ -42,8 +42,6 @@ Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, 
 ---
 
 ## 📚 Estudos Recentes
-- Investigando **Jetpack Compose** com **KMM** (Kotlin Multiplatform Mobile).
-- Explorando arquiteturas modernas como **MVI** e **Unidirectional Data Flow**.
 - Estudando sobre **CI/CD** (Continuous Integration e Continuous delivery)
 - Fazendo esperimentos com **Ktor Client** (para requisições HTTP)
 
