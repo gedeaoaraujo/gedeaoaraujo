@@ -1,7 +1,6 @@
 # Engenheiro de Software
 
-Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, buscando maneiras de transformar ideias em soluções que impactam o dia a dia das pessoas.
-
+Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.
 ---
 
 ## 🚀 Sobre mim
@@ -17,12 +16,14 @@ Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, 
 ## 💻 Tecnologias
 
 <div>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </div>
 
 ---
@@ -38,12 +39,6 @@ Focado em desenvolvimento Android. Sou movido pela curiosidade por tecnologias, 
 *App para pesquisar filmes* 
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/ingresso-filmes-app)**  
 - 🚀 Tecnologias: Android DataBinding, Retrofit, Room, Junit
-
----
-
-## 📚 Estudos Recentes
-- Estudando sobre **CI/CD** (Continuous Integration e Continuous delivery)
-- Fazendo esperimentos com **Ktor Client** (para requisições HTTP)
 
 ---
 
