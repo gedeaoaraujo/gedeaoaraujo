@@ -1,11 +1,12 @@
 # Engenheiro de Software
 
-**Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.**
+- **Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.**
+  
 ---
 
 ## 🚀 Sobre mim
+- **Testes:** Unitários, Instrumentação e de UI.
 - **Linguagens** Dart, Java, Kotlin, Swift, Javascript, Typescipt.
-- **Testes:** Unitários, Instrumentação e UI Automação com Espresso.
 - **Padrões de Arquitetura:** MVVM, MVI, MVP, DDD, Clean Architecture.
 - **Frameworks:** Android, IOS, Flutter, React, React Native, Nestjs, Spring, Express.
 - **Experiência:** Desenvolvimento de aplicativos nativos para Android com foco em performance e design intuitivo.
