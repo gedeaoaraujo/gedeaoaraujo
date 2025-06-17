@@ -1,14 +1,13 @@
 # Engenheiro de Software
 
-Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.
+**Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.**
 ---
 
 ## 🚀 Sobre mim
-- **Ferramentas:** Android Studio, Git, Gradle.
-- **Frameworks:** Retrofit, Room, Firebase, Dagger/Hilt, Koin.
-- **Habilidades:** Kotlin, Java, Jetpack Compose, Material Design.
+- **Linguagens** Dart, Java, Kotlin, Swift, Javascript, Typescipt.
 - **Testes:** Unitários, Instrumentação e UI Automação com Espresso.
 - **Padrões de Arquitetura:** MVVM, MVI, MVP, DDD, Clean Architecture.
+- **Frameworks:** Android, IOS, Flutter, React, React Native, Nestjs, Spring, Express.
 - **Experiência:** Desenvolvimento de aplicativos nativos para Android com foco em performance e design intuitivo.
 
 ---
@@ -16,14 +15,14 @@ Um engenheiro de software com experiência profissional no desenvolvimento de ap
 ## 💻 Tecnologias
 
 <div>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
 </div>
 
 ---
