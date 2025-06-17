@@ -1,6 +1,6 @@
 # Engenheiro de Software
 
-- **Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.**
+**Um engenheiro de software com experiência profissional no desenvolvimento de aplicativos móveis, mas com conhecimentos em tecnologias web, backend e banco de dados. Experiência em testes unitários e instrumentados. Focado em entregar soluções eficientes, com atenção à experiência do usuário. Entendido de boas práticas de desenvolvimento, como: SOLID, YAGNI, KISS e DRY.**
   
 ---
 
