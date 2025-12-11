@@ -30,6 +30,11 @@
 
 ## 📘 Projetos de Destaque
 
+### **Emerald Scrolls**
+**App de diário digital**
+- 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/emerald-scrolls-rn)**  
+- 🚀 Tecnologias: React Native, Expo, Router, Crypto, SQLite, Provider
+
 ### **Rick And Morty Dex**
 **App para pesquisa dos personagens da série**
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/android-rickandmorty-dex)**  
