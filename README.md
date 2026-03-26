@@ -35,7 +35,7 @@
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/emerald-scrolls-rn)**  
 - 🚀 Tecnologias: React Native, Expo, Router, Crypto, SQLite, Provider
 
-### **LinkXort*
+### **LinkXort**
 **App para encurtar urls**
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/LinkXort)** 
 - 🚀 Tecnologias: Jetpack Compose (UI e Testes), Mockk, Junit, Hilt, Retrofit, MVVM, Clean Architecture
