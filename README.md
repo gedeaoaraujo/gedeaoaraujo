@@ -38,7 +38,7 @@
 ### **LinkXort**
 **App para encurtar urls**
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/LinkXort)** 
-- 🚀 Tecnologias: Jetpack Compose (UI e Testes), Mockk, Junit, Hilt, Retrofit, MVVM, Clean Architecture
+- 🚀 Tecnologias: Jetpack Compose (UI e Testes), Mockk, Junit, Hilt, Retrofit, MVI, Clean Architecture
 
 ### **Rick And Morty Dex**
 **App para pesquisa dos personagens da série**
