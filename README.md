@@ -40,6 +40,11 @@
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/emerald-scrolls-rn)**  
 - 🚀 Tecnologias: React Native, Expo, Router, Crypto, SQLite, Provider
 
+### **Ingresso Filmes**
+**App para pesquisar filmes**
+- 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/ingresso-filmes-app)**  
+- 🚀 Tecnologias: Android DataBinding, Retrofit, Room, Junit, MVVM
+
 ### **LinkXort**
 **App para encurtar urls**
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/LinkXort)** 
@@ -49,11 +54,6 @@
 **App para pesquisa dos personagens da série**
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/android-rickandmorty-dex)**  
 - 🚀 Tecnologias: Jetpack Compose, Retrofit, Room, Junit, MVVM, Clean Architecture, DDD
-
-### **Ingresso Filmes**
-**App para pesquisar filmes**
-- 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/ingresso-filmes-app)**  
-- 🚀 Tecnologias: Android DataBinding, Retrofit, Room, Junit, MVVM
 
 ---
 
