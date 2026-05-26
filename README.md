@@ -30,6 +30,11 @@
 
 ## 📘 Projetos de Destaque
 
+### **Dark Ruby**
+**App de diário digital**
+- 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/darkruby)**  
+- 🚀 Tecnologias: Flutter, MVI, SQFLite, Share plus, CSV
+
 ### **Emerald Scrolls**
 **App de diário digital**
 - 🔗 **[Ver repositório](https://github.com/gedeaoaraujo/emerald-scrolls-rn)**  
